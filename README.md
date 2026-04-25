@@ -12,11 +12,8 @@ Diagnosticar falhas arquitetônicas e de segurança em um código legado, aplica
 
 ### 🗃️ Statics:
 
-**Imagem Astah - Veiculo, Caminhao e Moto**:
-![astah_veiculo.png](src/br/com/fiapdelivery/statics/astah_veiculo.png)
-
 **Imagem Astah - Resumo**:
-![astah_resumo.png](src/br/com/fiapdelivery/statics/astah_resumo.png)
+![astah_resumo.png](src/br/com/fiapdelivery/statics/astah_diagrama.png)
 
 **Arquivo:** [FiapDelivery.asta](src/br/com/fiapdelivery/statics/FiapDelivery.asta)
 
